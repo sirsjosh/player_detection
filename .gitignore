@@ -6,3 +6,5 @@ runs
 yolo
 *.pt
 *.mp4
+stubs
+*.pkl
