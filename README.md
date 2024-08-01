@@ -1,5 +1,7 @@
 # Football Player Detection Project
 
+![alt text](background.jpg)
+
 This project involves detecting and tracking football players in a video, assigning teams to players, and identifying ball possession using deep learning models and computer vision techniques. The main steps include reading a video, tracking objects (players and ball), assigning teams, and determining ball possession. The final output is an annotated video with players, their team colors, and ball possession.
 
 ## Table of Contents
@@ -29,4 +31,7 @@ This project involves detecting and tracking football players in a video, assign
 
 To run the project, execute the `main.py` script:
 ```bash
-python main.py
+python main.py  
+
+
+
